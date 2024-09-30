@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RichEditBoxBug (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RichEditBoxBug (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
